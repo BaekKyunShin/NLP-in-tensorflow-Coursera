@@ -12,5 +12,5 @@ Tensorflow Dataset: https://www.tensorflow.org/datasets/catalog/overview
 
 
 
-[Certificate Verification]( coursera.org/verify/T9FR5XLCTTGG)
+[Certificate Verification](coursera.org/verify/T9FR5XLCTTGG)
 
